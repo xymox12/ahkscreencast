@@ -29,7 +29,7 @@ Gui, 3: Add, Button, wp gExit, Exit
 
 ; Generated using SmartGUI Creator for SciTe
 
-Gui, 3: Show, w479 h379, HSS ScreenCast
+Gui, 3: Show, w479 h379, AHK ScreenCast
 return
 
 
