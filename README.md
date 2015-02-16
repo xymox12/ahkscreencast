@@ -3,4 +3,4 @@ AHK script to screencast via portable VLC. Using portable VLC means that the is 
 
 ## Screenshot
 
-![V0.1 interface](https://github.com/xymox12/ahkscreencast/blob/ahkscreenshots/assets/images/screenshots/ahk-screencast-screengrab.png)
+![V0.1 interface](https://github.com/xymox12/ahkscreencast/blob/master/assets/images/screenshots/ahk-screencast-screengrab.png)
