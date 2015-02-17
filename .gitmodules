@@ -1,0 +1,3 @@
+[submodule "scripts/screenkey.ahk"]
+	path = scripts/screenkey.ahk
+	url = https://github.com/mihaifm/screenkey.ahk.git
