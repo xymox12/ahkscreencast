@@ -10,7 +10,7 @@ Gui, 3: font, s8, Arial
 Gui, 3: Add, GroupBox,x20 y40 w200 h170, Capture size
 Gui, 3: Add, Radio,vRadioSize  xp+10 yp+30 w170 h30, Desktop
 Gui, 3: Add, Radio, xp yp+30 w170 h30, 1280x720
-Gui, 3: Add, Radio, xp yp+30 w170  h30 Checked , 720x576
+Gui, 3: Add, Radio, xp yp+30 w170  h30 Checked , 640x360
 Gui, 3: Add, Button, gShowBox, Display box
 
 Gui, 3: Add, GroupBox, x252 y60 w200 h140 , Position
